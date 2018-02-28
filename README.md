@@ -26,6 +26,7 @@
 3. **Find your User Token.** In browser or desktop Discord, type `Ctrl-Shift-I`. Go to the Application section, and and go to **Storage** > **LocalStorage** > **discordapp.com**. Find the `token` row, and your token will be the value in quotes. ⚠ **Do not share this token with anyone** ⚠ This token provides complete access to your Discord account, so never share it!
 
 4. **Edit Config** Open up main.py in Notepad or an IDE and edit the config section to configure the bot to your account.
+<br/><br/>
 Example config:
 ```
  # [Config]
@@ -39,13 +40,13 @@ token= "Msa.djdksDjfksSKfSjhrkdksSkfjedhDhrjejsJdmwjSjrDhs"
  * Linux: Open terminal and type ``python (file directory)``.
 
 ## Commands
-`clear [count]` - Clears the specified amount of messages.
+`~clear [count]` - Clears the specified amount of messages.
 
-`info` - Displays the Github link of the bot.
+`~info` - Displays the Github link of the bot.
 
 ## Buy me a cup of coffee ☕
 
-This bot is open source and always will be, even if I don't get donations.
+This project is open source and always will be, even if I don't get donations.
 
  * Bitcoin - ``14ETYqTsJrMH5dcgEC3zxhvnrPTu3oSLdD``
  * Ethereum - ``0x2792B1BA81BaaA69e2DBA0d91d7abb3f8B2c6116``
