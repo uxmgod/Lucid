@@ -1,5 +1,5 @@
  # [Config]
-prefix = "" # The desired token to be used for the bot
+prefix = "~" # The desired token to be used for the bot
 token = "" # Instructions on how to get this in README.md
 
 # [Main]
