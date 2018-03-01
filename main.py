@@ -17,7 +17,7 @@ async def on_ready():
     print ("Lucid successfully logged into Discord\n")
     print ("Name: {}#{}".format(client.user.name, client.user.discriminator))
     print ("ID: {}\n".format(client.user.id))
-    print ("Commands: Clear, Info")
+    print ("Usage: clear [count]")
 
 @client.command(pass_context=True)
 async def clear(ctx, limit: int=None):
