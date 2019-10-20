@@ -43,13 +43,3 @@ token= "Msa.djdksDjfksSKfSjhrkdksSkfjedhDhrjejsJdmwjSjrDhs"
 `~clear [count]` - Clears the specified amount of messages.
 
 `~info` - Displays the Github link of the bot.
-
-## Buy me a cup of coffee ☕
-
-This project is open source and always will be, even if I don't get donations.
-
- * Bitcoin - ``14ETYqTsJrMH5dcgEC3zxhvnrPTu3oSLdD``
- * Ethereum - ``0x2792B1BA81BaaA69e2DBA0d91d7abb3f8B2c6116``
- * Litecoin - ``LffC81fQnCDwPZCCsVmMEDiuFcdP7LRPfK``
-
-Thanks in advance <3
